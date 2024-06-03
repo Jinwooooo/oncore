@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Jinwooooo/oncore/readme_assets/ONCORE_logo_bgTransparent.png">
+  <img src="https://github.com/Jinwooooo/oncore/blob/main/readme_assets/ONCORE_logo_bgTransparent.png">
 
   <h2>동료들과 함께 실시간으로 소통하며 알고리즘 학습하는 웹 서비스</h2>
   <div align="center">
@@ -21,8 +21,7 @@
     
   </div>
   <br>
-  <a href="https://www.youtube.com/your-demo-link">🎥 데모영상 보기 </a>
-  <a href="https://youtu.be/your-presentation-link">🎤 발표영상 보기 </a>
+  <a href="https://youtu.be/vHHZA0hJiAY"> 데모영상 보기 </a>
 </div>
 
 ---
@@ -37,14 +36,14 @@
 - **CodeMirror** 코드 테마 (색 + 폰트) 및 자동완성 기능
 - **Yjs** CRDT + P2P 연결 모듈
 
-| ![Code Editor](https://github.com/Jinwooooo/oncore/readme_assets/code_editor.png) |
+| ![Code Editor](https://github.com/Jinwooooo/oncore/blob/main/readme_assets/code_editor.png) |
 | ----------------------------------------------------------------------------- |
 | 협동 코드 에디터에서 실시간 편집                                      |
 
 ### 화이트 보드
 - **tldraw** 화이트보드 기능
 
-| ![Whiteboard](https://github.com/Jinwooooo/oncore/readme_assets/white_board.png)|
+| ![Whiteboard](https://github.com/Jinwooooo/oncore/blob/main/readme_assets/whiteboard.png)|
 | ----------------------------------------------------------------------------- |
 | 화이트 보드에서 실시간 아이디어 공유                                  |
 
@@ -52,14 +51,14 @@
 - **WebRTC** 실시간 화상 채팅 모듈
 - **PeerJS** WebRTC 간략화 + 강화
 
-| ![Video](https://github.com/Jinwooooo/oncore/readme_assets/video_chat.png)|
+| ![Video](https://github.com/Jinwooooo/oncore/blob/main/readme_assets/video_chat.png)|
 | ----------------------------------------------------------------------------- |
 | 화상 채팅으로 실시간 소통                                              |
 
 ### 코드 실행
 - **Piston** 코드 실행 API
 
-| ![Run](https://github.com/Jinwooooo/oncore/readme_assets/run.png)|
+| ![Run](https://github.com/Jinwooooo/oncore/blob/main/readme_assets/run.png)|
 | ------------------------------------------------------------------------------ |
 | 코드 실시간 실행 및 결과 공유                                                |
 
@@ -67,7 +66,7 @@
 - **Redis** Pub/Sub으로 서버에서 실시간 데이터 관리
 - **Clova** AI API
 
-| ![Chat](https://github.com/Jinwooooo/oncore/readme_assets/chat.png)|
+| ![Chat](https://github.com/Jinwooooo/oncore/blob/main/readme_assets/chat.png)|
 | ----------------------------------------------------------------------- |
 | 사용자 + AI 실시간 소통                                              |
 
@@ -75,7 +74,7 @@
 - **Puppeteer** + **Cheerio** 백준 문제 크롤러
 - **Redis** 캐싱으로 통해 호출 속도 상향
 
-| ![Problem View](https://github.com/Jinwooooo/oncore/readme_assets/view_problem.png)|
+| ![Problem View](https://github.com/Jinwooooo/oncore/blob/main/readme_assets/view_problem.png)|
 | ------------------------------------------------------------------------------ |
 | 백준 문제 보기                                               |
 
